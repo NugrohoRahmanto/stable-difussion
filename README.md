@@ -1,6 +1,6 @@
-# Stable Diffusion - Tugas
+# Stable Diffusion - Tugas (CelebA)
 
-Repositori ini digunakan untuk tugas implementasi dan eksperimen model diffusion berbasis PyTorch.
+Repositori ini digunakan untuk tugas implementasi dan eksperimen model diffusion berbasis PyTorch menggunakan dataset **CelebA**.
 
 ## Isi Proyek
 
@@ -34,3 +34,9 @@ python scripts/sampler_2d.py
 
 - Pastikan PyTorch sudah sesuai dengan CUDA/GPU yang digunakan.
 - Hasil training dan gambar output dapat disimpan di folder `model-result/`.
+
+## Hasil Terakhir
+
+- Dataset: **CelebA**
+- Hasil output terbaru di `model-result/`: **`sample-16.png`**
+- Waktu file terakhir: **14 Mei 2026, 23:36**
