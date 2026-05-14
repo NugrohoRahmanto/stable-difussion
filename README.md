@@ -38,5 +38,5 @@ python scripts/sampler_2d.py
 ## Hasil Terakhir
 
 - Dataset: **CelebA**
-- Hasil output terbaru di `model-result/`: **`sample-16.png`**
+- Hasil output terbaru di `model-result/`: **`sample.png`**
 - Waktu file terakhir: **14 Mei 2026, 23:36**
